@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there I'm Dr Leila Fouda
+- 🔭 I’m currently working on identifying how protected areas impact animal movement choices.
+- 👩‍🎓 I have a background in animal movement and foraging ecology.
+- 🐢 My PhD focused on loggerhead sea turtle feeding, fitness, and movement using stable isotopes, accelerometers, GPS tags, mtDNA, and hatchling fitness tests.
+- ⚡ Fun fact: I have flown in a C-130 Hercules!
+- 📫 How to reach me: Twitter: @Leila_Fouda Email: leila.fouda@yale.edu
+- 😄 Pronouns: She/Her/Hers
 
 <!--
 **leilafouda/leilafouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
