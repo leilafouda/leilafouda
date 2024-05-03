@@ -1,9 +1,9 @@
 ### 👋 Hi there I'm Dr Leila Fouda
-- 🔭 I’m currently working on identifying how protected areas impact animal movement choices.
+- 🔭 I’m currently working on examining how Dynamic Shipping Zones protect North Atlantic Right Whales.
 - 👩‍🎓 I have a background in animal movement and foraging ecology.
 - 🐢 My PhD focused on loggerhead sea turtle feeding, fitness, and movement using stable isotopes, accelerometers, GPS tags, mtDNA, and hatchling fitness tests.
 - ⚡ Fun fact: I have flown in a C-130 Hercules!
-- 📫 How to reach me: Twitter: @Leila_Fouda Email: leila.fouda@yale.edu
+- 📫 How to reach me: Twitter: @Leila_Fouda Email: leila.fouda@unb.ca
 - 😄 Pronouns: She/Her/Hers
 
 <!--
