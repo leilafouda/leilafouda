@@ -3,7 +3,7 @@
 - 👩‍🎓 I have a background in animal movement and foraging ecology.
 - 🐢 My PhD focused on loggerhead sea turtle feeding, fitness, and movement using stable isotopes, accelerometers, GPS tags, mtDNA, and hatchling fitness tests.
 - ⚡ Fun fact: I have flown in a C-130 Hercules!
-- 📫 How to reach me: Bluesky: [@leilafouda.bsky.social](https://bsky.app/profile/leilafouda.bsky.social) Email: leila.fouda@unb.ca
+- 📫 How to reach me: Bluesky: [leilafouda.bsky.social](https://bsky.app/profile/leilafouda.bsky.social) Email: leila.fouda@unb.ca Website: [leilafouda.com](www.leilafouda.com)
 - 😄 Pronouns: She/Her/Hers
 
 <!--
